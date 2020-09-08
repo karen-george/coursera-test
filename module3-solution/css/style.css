@@ -1,0 +1,21 @@
+body {
+	box-sizing: border-box;
+	background-color: white;
+	padding: 0px;
+	margin: 0px;
+}
+.navbar-brand{
+	color: white;
+	font-size: 20px;
+}
+.container {
+	background-color: #B4B8CA;
+	color: #35394a;
+	height: 1000px;
+	width: 90%;
+}
+.container .text-center {
+	font-size: 20px;
+	color: #1f222c;
+}
+
